@@ -8,7 +8,7 @@ import json
 
 
 
-HOST = "127.0.500.0"
+HOST = "6.3.7.637"
 
 PORT = 5050
 
@@ -778,4 +778,5 @@ if __name__ == "__main__":
 
 
     app.mainloop() 
+
 
