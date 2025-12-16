@@ -1,5 +1,3 @@
-server.py
-
 
 
 import socket
@@ -777,5 +775,6 @@ class ModernChatGUI(ctk.CTk):
 if __name__ == "__main__":
 
     app = ModernChatGUI()
+
 
     app.mainloop() 
